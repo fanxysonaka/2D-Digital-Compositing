@@ -35,17 +35,17 @@ https://www.youtube.com/watch?v=HZn-x2fiN9c
 
 ### Definition of Alpha, aka Alpha compositing, Alpha Channel
 digital technique that allows to separate the object from the environment  
-환경, 배경으로부터 대상을 분리할 수 있도록 도와주는 디지털 기술
+환경, 배경으로부터 대상을 분리할 수 있도록 도와주는 디지털 기술  
 White part of Alpha Channel : remains visible in the RGB image  
-알파 채널에서의 흰색 부분 : RGB 이미지에서 그대로 보여지는 부분
-Black part of Alpha Channel : becomes transparent in the RGB image
-알파 채널에서의 검은색 부분 : RGB 이미지에서 투명하게 보여지는 부분
-Color between white & black part of Alpha Channel : toggle transparency between 0 - 1
-알파 채널에서의 검은색과 흰색 사이의 색상 : 0 - 1 사이의 투명도를 조절
+알파 채널에서의 흰색 부분 : RGB 이미지에서 그대로 보여지는 부분  
+Black part of Alpha Channel : becomes transparent in the RGB image  
+알파 채널에서의 검은색 부분 : RGB 이미지에서 투명하게 보여지는 부분  
+Color between white & black part of Alpha Channel : toggle transparency between 0 - 1  
+알파 채널에서의 검은색과 흰색 사이의 색상 : 0 - 1 사이의 투명도를 조절  
 
-### Alpha Techniques
-When it applied to film : Possible to seperate original image into foreground image, and background image  
-영상에 접목되었을 때 : 원본 이미지를 앞배경과 뒷배경 이미지로 분리할 수 있음
-Effects of using Alpha Techniques : Possible to work with only alpha channels(which means, not touching original image or scene)
-알파 기술을 사용했을 때 유용한 점 : 알파 채널만을 가지고 작업이 가능함(즉, 원본 이미지나 장면을 건드리지 않음)
+### Alpha Techniques  
+When it applied to film : Possible to seperate original image into foreground image, and background image   
+영상에 접목되었을 때 : 원본 이미지를 앞배경과 뒷배경 이미지로 분리할 수 있음  
+Effects of using Alpha Techniques : Possible to work with only alpha channels(which means, not touching original image or scene)  
+알파 기술을 사용했을 때 유용한 점 : 알파 채널만을 가지고 작업이 가능함(즉, 원본 이미지나 장면을 건드리지 않음)  
 
