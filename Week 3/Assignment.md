@@ -36,6 +36,7 @@ https://www.youtube.com/watch?v=HZn-x2fiN9c
 ### Definition of Alpha, aka Alpha compositing, Alpha Channel
 digital technique that allows to separate the object from the environment  
 환경, 배경으로부터 대상을 분리할 수 있도록 도와주는 디지털 기술  
+![Alpha](https://github.com/fanxysonaka/2D-Digital-Compositing/blob/master/Week%203/Alpha.png?raw=true)  
 White part of Alpha Channel : remains visible in the RGB image  
 알파 채널에서의 흰색 부분 : RGB 이미지에서 그대로 보여지는 부분  
 Black part of Alpha Channel : becomes transparent in the RGB image  
