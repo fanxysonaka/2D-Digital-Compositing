@@ -23,6 +23,7 @@ Effects of using rotoscoping : it is possible to create more realistic backgound
 #### Tracking, aka Match Moving   
 technique, skills that capture and analyze the movement of object, camera, and after that compositing with computer graphic  
 ##### 트래킹 : 촬영되는 사물과 카메라의 움직임의 방향성을 분석하여 컴퓨터 그래픽과 합성한 기술  
+![Tracking](https://github.com/fanxysonaka/2D-Digital-Compositing/blob/master/Week%203/Tracking.png?raw=true)
 Wehn it applied to film : make it unrealistic objects and spaces to re-create more realistic scene  
 영상에 접목되었을 때 : 비현실적인 사물과 공간을 더 현실적인 장면으로 재구성  
 Effects of using tracking : it is possible to mix-up unreal object's moving into real scene, or space  
