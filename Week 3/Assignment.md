@@ -2,11 +2,13 @@
 #### What is Digital Compositing?  
 https://www.youtube.com/watch?v=gYu4esqvnQ0
 
-### definition of Digital Compositing  
+### Definition of Digital Compositing  
 Creative Process of assembling filled and rendered elements from multiple sources to create a final lifelike illusion  
 실제로 존재하는 영상과 가상으로 제작된 모든 것들을 결합하여 진짜같은 환상을 만들어내는 창의적인 과정  
 
-### goal of Digital Compositing
+### Goal of Digital Compositing
+The work of perfectly synthesizing scenes that were not actually filmed together as if they had existed before.
+실제로 같이 촬영하지 않은 대상을 원래부터 존재했던 것처럼 완벽하게 합성하는 작업
 
 ### Part of Digital Compositing, Skills  
 #### Rotoscoping  
