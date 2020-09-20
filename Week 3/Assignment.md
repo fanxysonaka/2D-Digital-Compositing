@@ -1,5 +1,5 @@
 ## Assignment
-#### What is Digital Compositing?  
+## What is Digital Compositing?  
 https://www.youtube.com/watch?v=gYu4esqvnQ0
 
 ### Definition of Digital Compositing  
@@ -30,7 +30,7 @@ Effects of using tracking : it is possible to mix-up unreal object's moving into
 트래킹을 사용했을 때 유용한 점 : 실존하지 않는 가상의 사물의 움직임을 실존하는 장면이나 공간에 합성할 수 있음  
 
 
-#### What is Alpha and Color?  
+## What is Alpha and Color?  
 https://www.youtube.com/watch?v=HZn-x2fiN9c  
 
 ### Definition of Alpha, aka Alpha compositing, Alpha Channel
