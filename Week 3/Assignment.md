@@ -13,6 +13,7 @@ The work of perfectly synthesizing scenes that were not actually filmed together
 ### Part of Digital Compositing, Skills  
 #### Rotoscoping  
 technique, skills that makes possible to seperates the foreground from the background  
+![Rotoscoping](https://github.com/fanxysonaka/2D-Digital-Compositing/blob/master/Week%203/Rotoscoping.jpg?raw=true)
 ##### 로토스코핑 : 앞배경, 그리고 뒷배경을 분리할 수 있는 모든 기술력  
 When it applied to film : it is common to use a blue or green screen to easily remove the background from behind actor, object, etc  
 영상에 접목되었을 때 : 파란색, 또는 초록색의 화면을 사용하여 뒷배경을 배우나 사물로부터 분리시킬 수 있음  
