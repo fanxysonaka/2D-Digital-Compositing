@@ -50,3 +50,7 @@ When it applied to film : Possible to seperate original image into foreground im
 Effects of using Alpha Techniques : Possible to work with only alpha channels(which means, not touching original image or scene)  
 알파 기술을 사용했을 때 유용한 점 : 알파 채널만을 가지고 작업이 가능함(즉, 원본 이미지나 장면을 건드리지 않음)  
 
+### Alpha Style(Premultiplied, Straight)  
+https://nanite.tistory.com/98
+Premultiplied Alpha : Alpha is already mixed on RGB channel
+Straight Alpha : Alpha is seperated from original RGB channel
