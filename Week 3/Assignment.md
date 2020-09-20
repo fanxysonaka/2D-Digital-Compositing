@@ -54,5 +54,7 @@ Effects of using Alpha Techniques : Possible to work with only alpha channels(wh
 https://nanite.tistory.com/98  
 ![Premultiplied](https://github.com/fanxysonaka/2D-Digital-Compositing/blob/master/Week%203/Premultiplied.png?raw=true)  
 Premultiplied Alpha : Alpha is already mixed on RGB channel  
+Premultiplied Alpha : 알파 채널이 이미 색상혼합 채널에 합성되어 있음  
 ![Straight](https://github.com/fanxysonaka/2D-Digital-Compositing/blob/master/Week%203/Straight.png?raw=true)  
 Straight Alpha : Alpha is seperated from original RGB channel  
+Straight Alpha : 알파 채널이 색상혼합 채널과 분리되어 단독으로 존재함  
